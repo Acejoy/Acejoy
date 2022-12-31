@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acejoy" alt="acejoy" /></a> </p>
 
-<img align="right" alt="Coding Man" widht="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" >
+<img align="right" alt="Coding Man" widht="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" >
 
 - 🌱 I’m currently learning **Machine Learning and Reinforcement Learning**
 
